@@ -3,7 +3,7 @@
 
     "quizes": [
         {
-            "game-key": "capitales",
+            "gameKey": "capitales",
             "imageString": "🌎",
             "title": "Capitales",
             "subtitles": "du monde",
@@ -15,7 +15,7 @@
         },
 
         {
-            "game-key": "prefectures",
+            "gameKey": "prefectures",
             "imageString": "🏘️",
             "title": "Chefs lieux",
             "subtitles": "de France",
