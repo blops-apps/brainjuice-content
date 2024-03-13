@@ -1,0 +1,29 @@
+{
+    "title": "Géo Quiz",
+
+    "quizes": [
+        {
+            "game-key": "capitales",
+            "imageString": "🌎",
+            "title": "Capitales",
+            "subtitles": "du monde",
+            "facts": [
+                ["France", "Paris"]
+            ],
+            "allowedAnswers": ["Paris"],
+
+        },
+
+        {
+            "game-key": "prefectures",
+            "imageString": "🏘️",
+            "title": "Chefs lieux",
+            "subtitles": "de France",
+            "facts": [
+                ["Morbihan", "Vanne"]
+            ],
+            "allowedAnswers": ["Vanne"],
+        }
+    ] 
+
+}

@@ -1,8 +1,0 @@
-{
-    "title": "Géo Quiz",
-
-    "quizes": [
-        {"imageString": "🌎", "title": "Capitales", "subtitles": "du monde"}
-    ] 
-
-}
