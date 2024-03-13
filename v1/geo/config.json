@@ -8,7 +8,8 @@
             "title": "Capitales",
             "subtitles": "du monde",
             "facts": [
-                ["France", "Paris"]
+                {"key": "France", "value": "Paris"},
+                {"key": "Allemagne", "value": "Berlin"}
             ],
             "allowedAnswers": ["Paris"],
 
@@ -20,7 +21,8 @@
             "title": "Chefs lieux",
             "subtitles": "de France",
             "facts": [
-                ["Morbihan", "Vanne"]
+                {"key": "Morbihan", "value": "Vanne"},
+                {"key": "Ile et Vilaine", "value": "Renne"}
             ],
             "allowedAnswers": ["Vanne"],
         }
