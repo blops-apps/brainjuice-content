@@ -1,0 +1,90 @@
+openapi: 3.0.3
+info:
+  title: BrainJuiceAPI
+  description: |-
+    BrainJuice content API
+  version: 1.0.0
+servers:
+  - url: https://blops-apps.github.io/brainjuice-content/v1
+paths:
+  /{appKey}/config:
+    get:
+      summary: Returns app config
+      description: Returns app config
+      operationId: getAppConfig
+      parameters:
+        - name: appKey
+          in: path
+          description: ID of the app
+          required: true
+          schema:
+            type: integer
+            format: int64
+      responses:
+        '200':
+          description: successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AppConfig'          
+        '404':
+          description: App key not found
+
+components:
+  schemas:
+    AppConfig:
+      type: object
+      properties:
+        title:
+          type: string
+          example: "Geo Quiz"
+        quizes:
+          type: array
+          items: 
+            $ref: '#/components/schemas/QuizConfig'
+    QuizConfig:
+      type: object
+      properties:
+        imageString:
+          type: string
+          example: "👍"
+        title:
+          type: string
+          example: "👍"      
+        subtitles:
+          type: string
+          example: "👍"
+        facts:
+          type: array
+          items:
+            $ref: '#/components/schemas/Fact'
+        allowedAnswers:
+          type: array
+          items:
+            type: string
+        gameKey:
+          type: string
+          example: "geo"
+        questionMode:
+          $ref: '#/components/schemas/QuestionMode'
+       
+    Fact: 
+      type: object
+      properties:
+        key: 
+          type: string
+          example: "France"
+        value: 
+          type: string
+          example: "Paris"
+          
+    QuestionMode: 
+      type: object
+      properties:
+        type:
+          type: string
+          example: mix
+        value:
+          type: number
+          example: 0.4
+   

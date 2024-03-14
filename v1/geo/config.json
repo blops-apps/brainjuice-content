@@ -202,7 +202,7 @@
                 {"key": "Viet Nam", "value": "Hanoi"},
                 {"key": "Yémen", "value": "Sanaa"},
                 {"key": "Zambie", "value": "Lusaka"},
-                {"key": "Zimbabwe", "value": "Harare"},
+                {"key": "Zimbabwe", "value": "Harare"}
             ],
             "allowedAnswers": [],
             "questionMode": {"type": "mix", "value": 0.3}
@@ -424,6 +424,7 @@
                 {"key": "976", "value": "Mayotte"}
             ],
             "allowedAnswers": [],
+            "questionMode": {"type": "mix", "value": 0.3}
         }
     ] 
 
