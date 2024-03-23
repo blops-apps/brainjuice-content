@@ -1,6 +1,6 @@
 {
     "title": "Climate Quiz",
-    "levels": [{"min": 0, "label": "Niveau 1 - 🥚"}, {"min": 5, "label": "Niveau 2 - 🐣"}, {"min": 10, "label": "Niveau 3 - 🐥"}, {"min": 15, "label": "Niveau 4 - 🦆"}] 
+    "levels": [{"min": 0, "label": "Niveau 1 - 🥚"}, {"min": 5, "label": "Niveau 2 - 🐣"}, {"min": 10, "label": "Niveau 3 - 🐥"}, {"min": 15, "label": "Niveau 4 - 🦆"}],
     "quizes": [
         {
             "gameKey": "daily-co2",
