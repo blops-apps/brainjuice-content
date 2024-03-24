@@ -60,7 +60,7 @@
                 {"key": "Envoyer un email sans pièce jointe", "value": "0.004 kgCO2e"}
             ],
             "allowedAnswers": [],
-            "questionMode": {"type": "choices"}
+            "questionModes": [{"type": "choices"}]
         },
         {
             "gameKey": "vegetables-co2",
@@ -90,7 +90,7 @@
                 {"key": "Tomate", "value": "été ☀️"}
             ],
             "allowedAnswers": [],
-            "questionMode": {"type": "choices"}
+            "questionModes": [{"type": "choices"}]
         },
         {
             "gameKey": "transport-co2",
@@ -120,7 +120,7 @@
                 {"key": "Vélopartage", "value": "0 gCO2/km"}
             ],
             "allowedAnswers": [],
-            "questionMode": {"type": "choices"}
+            "questionModes": [{"type": "choices"}]
         },
         {
             "gameKey": "machines-power",
@@ -150,7 +150,7 @@
                 {"key": "Chauffe-eau électrique", "value": "3000-4500 W"}
             ],
             "allowedAnswers": [],
-            "questionMode": {"type": "choices"}
+            "questionModes": [{"type": "choices"}]
         },
         {
             "gameKey": "machines-standby-power",
@@ -180,7 +180,7 @@
                 {"key": "Réveil", "value": "0.5-2 W"}
             ],
             "allowedAnswers": [],
-            "questionMode": {"type": "choices"}
+            "questionModes": [{"type": "choices"}]
         }
     ] 
 
