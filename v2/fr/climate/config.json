@@ -31,7 +31,7 @@
                 {"key": "Envoyer un email sans pièce jointe", "numberValue": 0.004}
             ],
             "allowedAnswers": [],
-            "questionModes": [{"type": "choices", "weight": 5, "choicesQuantity": 4}, {"type": "freetext", "weight": 1}, {"type": "biggest", "weight": 1, "label": "C'est quoi le pire ?", "choicesQuantity": 2}]
+            "questionModes": [{"type": "findBiggest", "weight": 1, "label": "C'est quoi le pire ?", "choicesQuantity": 2}]
         },
         {
             "gameKey": "daily-co2",
