@@ -8,6 +8,7 @@
             "imageString": "🇪🇺",
             "title": "Capitales d'Europe",
             "subtitles": "",
+            "factsType": {"type": "string"},
             "facts": [
                 {"key": "Allemagne", "value": "Berlin"},
                 {"key": "Andorre", "value": "Andorre-la-Vieille"},
@@ -55,6 +56,7 @@
             "imageString": "🌎",
             "title": "Capitales: Expert!",
             "subtitles": "du monde",
+            "factsType": {"type": "string"},
             "facts": [
                 {"key": "Afghanistan", "value": "Kaboul"},
                 {"key": "Afrique du Sud", "value": "Pretoria"},
@@ -261,6 +263,7 @@
             "imageString": "🏘️",
             "title": "Chefs lieux",
             "subtitles": "de France",
+            "factsType": {"type": "string"},
             "facts": [
                 {"key": "Ain", "value": "Bourg-en-Bresse"},
                 {"key": "Aisne", "value": "Laon"},
@@ -368,6 +371,7 @@
             "imageString": "🇫🇷",
             "title": "Codes de Départements",
             "subtitles": "de France",
+            "factsType": {"type": "string"},
             "facts": [
                 {"key": "1", "value": "Ain"},
                 {"key": "2", "value": "Aisne"},
