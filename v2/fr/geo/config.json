@@ -39,7 +39,7 @@
                 {"key": "Ukraine", "value": "Kiev"}
             ],
             "allowedAnswers": [],
-            "questionModes": [{"type": "choices"}, {"type": "freetext", "weight": 2}]
+            "questionModes": [{"type": "choices"}, {"type": "freetext", "weight": 1}]
         },
         {
             "gameKey": "capitales-africa1",
@@ -103,7 +103,7 @@
                 {"key": "Zimbabwe", "value": "Harare"}
             ],
             "allowedAnswers": [],
-            "questionModes": [{"type": "choices"}, {"type": "freetext", "weight": 2}]
+            "questionModes": [{"type": "choices"}, {"type": "freetext", "weight": 1}]
         },
         {
             "gameKey": "capitales-level-expert",
