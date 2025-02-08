@@ -1,0 +1,34 @@
+{
+    "title": "Quiz Géographie",
+    "levels": [{"min": 0, "label": "Niveau 1 - 🥚"}, {"min": 5, "label": "Niveau 2 - 🐣"}, {"min": 10, "label": "Niveau 3 - 🐥"}, {"min": 15, "label": "Niveau 4 - 🦆"}],
+    "quizes": [
+
+        {
+            "gameKey": "sous-pref-1",
+            "imageString": "🌵",
+            "title": "Les sous pref's",
+            "subtitles": "Ca c'est coton...",
+            
+            "gametype": "find-all"
+            "gameconfig": {
+                "facts": [
+                    {"key": "Ain", "values": ["Nantua", "Gex", "Belley"]},
+                ]
+            }
+        },
+
+       {
+            "gameKey": "metros-paris-1",
+            "imageString": "Ⓜ️",
+            "title": "Métro Parisiens",
+            "subtitles": "Pour te la cartonner en soirée",
+            
+            "gametype": "find-all"
+            "gameconfig": {
+                "facts": [
+                    {"key": "Métros parisiens", "values": ["République", "Chatelet"]},
+                ]
+            }
+        }
+
+}
