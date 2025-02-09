@@ -9,10 +9,14 @@
             "title": "Les sous pref's",
             "subtitles": "Ca c'est coton...",
             
-            "gametype": "find-all"
-            "gameconfig": {
+            "gameType": "multipleChoices",
+            "gameConfig": {
                 "facts": [
-                    {"key": "Ain", "values": ["Nantua", "Gex", "Belley"]},
+                    {"key": "Allemagne", "value": "Berlin"},
+                    {"key": "Autriche", "value": "Vienne"},
+                    {"key": "Belgique", "value": "Bruxelles"},
+                    {"key": "Bulgarie", "value": "Sofia"},
+                    {"key": "Croatie", "value": "Zagreb"}
                 ]
             }
         },
@@ -23,12 +27,16 @@
             "title": "Métro Parisiens",
             "subtitles": "Pour te la cartonner en soirée",
             
-            "gametype": "find-all"
+            "gameType": "findBiggest",
             "gameconfig": {
                 "facts": [
-                    {"key": "Métros parisiens", "values": ["République", "Chatelet"]},
+                    {"key": "Allemagne", "number": 120},
+                    {"key": "Autriche", "number": 1210},
+                    {"key": "Belgique", "number": 8},
+                    {"key": "Bulgarie", "number": 403.30},
+                    {"key": "Croatie", "number": 22.1}
                 ]
             }
         }
-
+    ]
 }
