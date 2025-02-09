@@ -28,7 +28,7 @@
             "subtitles": "Pour te la cartonner en soirée",
             
             "gameType": "findBiggest",
-            "gameconfig": {
+            "gameConfig": {
                 "facts": [
                     {"key": "Allemagne", "number": 120},
                     {"key": "Autriche", "number": 1210},
