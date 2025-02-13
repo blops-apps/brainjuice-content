@@ -1,58 +1,218 @@
 {
-        "title": "Quiz Géographie",
-        "levels": [{"min": 0, "label": "Niveau 1 - 🥚"}, {"min": 5, "label": "Niveau 2 - 🐣"}, {"min": 10, "label": "Niveau 3 - 🐥"}, {"min": 15, "label": "Niveau 4 - 🦆"}],
-        "quizes": [
-
-            {
-                "gameKey": "sous-pref-1",
-                "imageString": "🌵",
-                "title": "Les sous pref's",
-                "subtitles": "Ca c'est coton...",
-                
-                "gameType": "multipleChoices",
-                "gameConfig": {
-                    "facts": [
-                        {"key": "Allemagne", "value": "Berlin"},
-                        {"key": "Autriche", "value": "Vienne"},
-                        {"key": "Belgique", "value": "Bruxelles"},
-                        {"key": "Bulgarie", "value": "Sofia"},
-                        {"key": "Croatie", "value": "Zagreb"}
-                    ]
+    "sections": [
+        {
+            "imageString": "🌎",
+            "title": "Géographie",
+            "key": "geo",
+            "subtitle": "Les capitales, les départements chelous, tout ça, tout ça.",
+            "levels": [
+                {
+                    "min": 0,
+                    "label": "Niveau 1 - 🥚"
+                },
+                {
+                    "min": 5,
+                    "label": "Niveau 2 - 🐣"
+                },
+                {
+                    "min": 10,
+                    "label": "Niveau 3 - 🐥"
+                },
+                {
+                    "min": 15,
+                    "label": "Niveau 4 - 🦆"
                 }
-            },
-
-           {
-                "gameKey": "metros-paris-1",
-                "imageString": "Ⓜ️",
-                "title": "Métro Parisiens",
-                "subtitles": "Pour te la cartonner en soirée",
-                
-                "gameType": "findAll",
-                "gameConfig": {
-                    "facts": [
-                        {
-                            "key": "Métro parisiens", 
-                            "values": ["La Chapelle", "Stalingrad", "Chatelet"]
-                        }
+            ],
+            "quizes": [
+                {
+                    "gameKey": "sous-pref-1",
+                    "imageString": "🌵",
+                    "title": "Les sous pref's",
+                    "subtitles": "Ca c'est coton...",
+                    "gameType": "multipleChoices",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Allemagne",
+                                "value": "Berlin"
+                            },
+                            {
+                                "key": "Autriche",
+                                "value": "Vienne"
+                            },
+                            {
+                                "key": "Belgique",
+                                "value": "Bruxelles"
+                            },
+                            {
+                                "key": "Bulgarie",
+                                "value": "Sofia"
+                            },
+                            {
+                                "key": "Croatie",
+                                "value": "Zagreb"
+                            }
                         ]
                     }
                 },
-           {
-                "gameKey": "something-paris-1",
-                "imageString": "🐟",
-                "title": "Population",
-                "subtitles": "Serrés comme des sardines",
-                
-                "gameType": "findBiggest",
-                "gameConfig": {
-                    "facts": [
-                        {"key": "Allemagne", "number": 120},
-                        {"key": "Autriche", "number": 1210},
-                        {"key": "Belgique", "number": 8},
-                        {"key": "Bulgarie", "number": 403.30},
-                        {"key": "Croatie", "number": 22.1}
-                    ]
+                {
+                    "gameKey": "metros-paris-1",
+                    "imageString": "Ⓜ️",
+                    "title": "Métro Parisiens",
+                    "subtitles": "Pour te la cartonner en soirée",
+                    "gameType": "findAll",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Métro parisiens",
+                                "values": [
+                                    "La Chapelle",
+                                    "Stalingrad",
+                                    "Chatelet"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "gameKey": "something-paris-1",
+                    "imageString": "🐟",
+                    "title": "Population",
+                    "subtitles": "Serrés comme des sardines",
+                    "gameType": "findBiggest",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Allemagne",
+                                "number": 120
+                            },
+                            {
+                                "key": "Autriche",
+                                "number": 1210
+                            },
+                            {
+                                "key": "Belgique",
+                                "number": 8
+                            },
+                            {
+                                "key": "Bulgarie",
+                                "number": 403.3
+                            },
+                            {
+                                "key": "Croatie",
+                                "number": 22.1
+                            }
+                        ]
+                    }
                 }
-            }
-        ]
-    }
+            ]
+        },
+        {
+            "imageString": "🤔",
+            "title": "Trucs weird",
+            "key": "weird",
+            "subtitle": "Les capitales, les départements chelous, tout ça, tout ça.",
+            "levels": [
+                {
+                    "min": 0,
+                    "label": "Niveau 1 - 🥚"
+                },
+                {
+                    "min": 5,
+                    "label": "Niveau 2 - 🐣"
+                },
+                {
+                    "min": 10,
+                    "label": "Niveau 3 - 🐥"
+                },
+                {
+                    "min": 15,
+                    "label": "Niveau 4 - 🦆"
+                }
+            ],
+            "quizes": [
+                {
+                    "gameKey": "sous-pref-1",
+                    "imageString": "🌵",
+                    "title": "Les sous pref's",
+                    "subtitles": "Ca c'est coton...",
+                    "gameType": "multipleChoices",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Allemagne",
+                                "value": "Berlin"
+                            },
+                            {
+                                "key": "Autriche",
+                                "value": "Vienne"
+                            },
+                            {
+                                "key": "Belgique",
+                                "value": "Bruxelles"
+                            },
+                            {
+                                "key": "Bulgarie",
+                                "value": "Sofia"
+                            },
+                            {
+                                "key": "Croatie",
+                                "value": "Zagreb"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "gameKey": "metros-paris-1",
+                    "imageString": "Ⓜ️",
+                    "title": "Métro Parisiens",
+                    "subtitles": "Pour te la cartonner en soirée",
+                    "gameType": "findAll",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Métro parisiens",
+                                "values": [
+                                    "La Chapelle",
+                                    "Stalingrad",
+                                    "Chatelet"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "gameKey": "something-paris-1",
+                    "imageString": "🐟",
+                    "title": "Population",
+                    "subtitles": "Serrés comme des sardines",
+                    "gameType": "findBiggest",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Allemagne",
+                                "number": 120
+                            },
+                            {
+                                "key": "Autriche",
+                                "number": 1210
+                            },
+                            {
+                                "key": "Belgique",
+                                "number": 8
+                            },
+                            {
+                                "key": "Bulgarie",
+                                "number": 403.3
+                            },
+                            {
+                                "key": "Croatie",
+                                "number": 22.1
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
