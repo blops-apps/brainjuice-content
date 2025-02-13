@@ -227,7 +227,7 @@
                     "imageString": "🔋",
                     "title": "Les puissances électriques",
                     "subtitles": "Avoue que ça te branche...",
-                    "gameType": "multipleChoices",
+                    "gameType": "findBiggest",
                     "gameConfig": {
                         "unit": "kW",
                         "label": "C'est quoi le pire ?",
