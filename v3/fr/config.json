@@ -855,7 +855,7 @@
                 {
                     "gameKey": "q-p-mp-2",
                     "imageString": "💘4️⃣",
-                    "title": "Métro : Ligne 4",
+                    "title": "Métro: Ligne 4",
                     "subtitles": "(oui j'ai mis que les lignes que j'aimais bien)",
                     "gameType": "findAll",
                     "gameConfig": {
@@ -863,7 +863,7 @@
                             {
                                 "key": "Liste les stations de la 4",
                                 "values": [
-                                    "Bagneux – Lucie Aubrac",
+                                    "Bagneux - Lucie Aubrac",
                                     "Barbara",
                                     "Mairie de Montrouge",
                                     "Porte d'Orléans",
@@ -872,7 +872,7 @@
                                     "Denfert-Rochereau",
                                     "Raspail",
                                     "Vavin",
-                                    "Montparnasse – Bienvenüe",
+                                    "Montparnasse - Bienvenüe",
                                     "Saint-Placide",
                                     "Saint-Sulpice",
                                     "Saint-Germain-des-Prés",
@@ -882,14 +882,14 @@
                                     "Châtelet",
                                     "Les Halles",
                                     "Étienne Marcel",
-                                    "Réaumur – Sébastopol",
-                                    "Strasbourg – Saint-Denis",
+                                    "Réaumur - Sébastopol",
+                                    "Strasbourg - Saint-Denis",
                                     "Château d'Eau",
                                     "Gare de l'Est",
                                     "Château-Landon",
                                     "Louis Blanc",
-                                    "Barbès – Rochechouart",
-                                    "Marcadet – Poissonniers",
+                                    "Barbès - Rochechouart",
+                                    "Marcadet - Poissonniers",
                                     "Simplon",
                                     "Porte de Clignancourt"
                                 ]
@@ -929,10 +929,10 @@
                                     "Pont Neuf",
                                     "Châtelet",
                                     "Pont Marie",
-                                    "Sully – Morland",
+                                    "Sully - Morland",
                                     "Jussieu",
                                     "Place Monge",
-                                    "Censier – Daubenton",
+                                    "Censier - Daubenton",
                                     "Les Gobelins",
                                     "Place d'Italie",
                                     "Tolbiac",
@@ -942,9 +942,9 @@
                                     "Porte d'Ivry",
                                     "Pierre et Marie Curie",
                                     "Mairie d'Ivry / Le Kremlin-Bicêtre",
-                                    "Villejuif – Léo Lagrange",
-                                    "Villejuif – Paul Vaillant-Couturier",
-                                    "Villejuif – Louis Aragon"
+                                    "Villejuif - Léo Lagrange",
+                                    "Villejuif - Paul Vaillant-Couturier",
+                                    "Villejuif - Louis Aragon"
                                 ]
                             }
                         ]
