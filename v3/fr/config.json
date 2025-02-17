@@ -716,6 +716,8 @@
                         ]
                     }
                 },
+
+
                 {
                     "gameKey": "q-p-bp-1",
                     "imageString": "🚕",
@@ -845,6 +847,104 @@
                                     "Voltaire",
                                     "de l'Yser",
                                     "de la Zone"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "gameKey": "q-p-mp-2",
+                    "imageString": "💘4️⃣",
+                    "title": "Expert de la ligne 4",
+                    "subtitles": "(oui j'ai mis que les lignes que j'aimais bien)",
+                    "gameType": "findAll",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Liste les stations de la ligne 4",
+                                "values": [
+                                    "Bagneux – Lucie Aubrac",
+                                    "Barbara",
+                                    "Mairie de Montrouge",
+                                    "Porte d'Orléans",
+                                    "Alésia",
+                                    "Mouton-Duvernet",
+                                    "Denfert-Rochereau",
+                                    "Raspail",
+                                    "Vavin",
+                                    "Montparnasse – Bienvenüe",
+                                    "Saint-Placide",
+                                    "Saint-Sulpice",
+                                    "Saint-Germain-des-Prés",
+                                    "Odéon",
+                                    "Saint-Michel",
+                                    "Cité",
+                                    "Châtelet",
+                                    "Les Halles",
+                                    "Étienne Marcel",
+                                    "Réaumur – Sébastopol",
+                                    "Strasbourg – Saint-Denis",
+                                    "Château d'Eau",
+                                    "Gare de l'Est",
+                                    "Château-Landon",
+                                    "Louis Blanc",
+                                    "Barbès – Rochechouart",
+                                    "Marcadet – Poissonniers",
+                                    "Simplon",
+                                    "Porte de Clignancourt"
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "gameKey": "q-p-mp-3",
+                    "imageString": "💗7️⃣",
+                    "title": "Expert de la ligne 7",
+                    "subtitles": "(oui j'ai mis que les lignes que j'aimais bien)",
+                    "gameType": "findAll",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Liste les stations de la ligne 4",
+                                "values": [
+                                    "La Courneuve",
+                                    "Fort d'Aubervilliers",
+                                    "Aubervilliers",
+                                    "Porte de la Villette",
+                                    "Corentin Cariou",
+                                    "Crimée",
+                                    "Riquet",
+                                    "Stalingrad",
+                                    "Louis Blanc",
+                                    "Château-Landon",
+                                    "Gare de l'Est",
+                                    "Poissonnière",
+                                    "Cadet",
+                                    "Le Peletier",
+                                    "Chaussée d'Antin",
+                                    "Opéra",
+                                    "Pyramides",
+                                    "Palais Royal",
+                                    "Pont Neuf",
+                                    "Châtelet",
+                                    "Pont Marie",
+                                    "Sully – Morland",
+                                    "Jussieu",
+                                    "Place Monge",
+                                    "Censier – Daubenton",
+                                    "Les Gobelins",
+                                    "Place d'Italie",
+                                    "Tolbiac",
+                                    "Maison Blanche",
+                                    "Porte d'Italie",
+                                    "Porte de Choisy",
+                                    "Porte d'Ivry",
+                                    "Pierre et Marie Curie",
+                                    "Mairie d'Ivry / Le Kremlin-Bicêtre",
+                                    "Villejuif – Léo Lagrange",
+                                    "Villejuif – Paul Vaillant-Couturier",
+                                    "Villejuif – Louis Aragon"
                                 ]
                             }
                         ]
