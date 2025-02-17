@@ -855,13 +855,13 @@
                 {
                     "gameKey": "q-p-mp-2",
                     "imageString": "💘4️⃣",
-                    "title": "Expert de la ligne 4",
+                    "title": "Métro : Ligne 4",
                     "subtitles": "(oui j'ai mis que les lignes que j'aimais bien)",
                     "gameType": "findAll",
                     "gameConfig": {
                         "facts": [
                             {
-                                "key": "Liste les stations de la ligne 4",
+                                "key": "Liste les stations de la 4",
                                 "values": [
                                     "Bagneux – Lucie Aubrac",
                                     "Barbara",
@@ -900,13 +900,13 @@
                 {
                     "gameKey": "q-p-mp-3",
                     "imageString": "💗7️⃣",
-                    "title": "Expert de la ligne 7",
+                    "title": "Métro : Ligne 7",
                     "subtitles": "(oui j'ai mis que les lignes que j'aimais bien)",
                     "gameType": "findAll",
                     "gameConfig": {
                         "facts": [
                             {
-                                "key": "Liste les stations de la ligne 4",
+                                "key": "Liste les stations de la ligne 7",
                                 "values": [
                                     "La Courneuve",
                                     "Fort d'Aubervilliers",
