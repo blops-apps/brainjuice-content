@@ -830,7 +830,80 @@
                         ]
                     }
                 },
-
+                {
+                    "gameKey": "q-p-mp-4",
+                    "imageString": "Ⓜ️🐞",
+                    "title": "Métros hors de paris",
+                    "subtitles": "Pour mieux connecter avec les régions !",
+                    "gameType": "findAll",
+                    "gameConfig": {
+                        "facts": [
+                            {
+                                "key": "Trouve les métros extra-muros",
+                                "values": [
+                                    "Gabriel Péri",
+                                    "Les Agnettes",
+                                    "Les Courtilles",
+                                    "Aimé Césaire",
+                                    "Fort d'Aubervilliers",
+                                    "Mairie d'Aubervilliers",
+                                    "Aubervilliers - Pantin - Quatre Chemins",
+                                    "Front populaire",
+                                    "Bagneux - Lucie Aubrac",
+                                    "Gallieni",
+                                    "Bobigny - Pablo Picasso",
+                                    "Bobigny - Pantin - Raymond Queneau",
+                                    "Billancourt",
+                                    "Boulogne - Jean Jaurès",
+                                    "Boulogne - Pont de Saint-Cloud",
+                                    "Marcel Sembat",
+                                    "Pont de Sèvres",
+                                    "Charenton - Écoles",
+                                    "Liberté",
+                                    "Châtillon - Montrouge",
+                                    "Chevilly-Larue",
+                                    "Mairie de Clichy",
+                                    "Saint-Ouen",
+                                    "Esplanade de la Défense",
+                                    "Créteil - L'Échat",
+                                    "Créteil - Préfecture",
+                                    "Créteil - Université",
+                                    "Pointe du Lac",
+                                    "Corentin Celton",
+                                    "Mairie d'Issy",
+                                    "Mairie d'Ivry",
+                                    "Pierre et Marie Curie",
+                                    "L'Haÿ-les-Roses",
+                                    "La Courneuve - 8 Mai 1945",
+                                    "Le Kremlin-Bicêtre",
+                                    "Hôpital Bicêtre",
+                                    "Mairie des Lilas",
+                                    "Serge Gainsbourg",
+                                    "Anatole France",
+                                    "Louise Michel",
+                                    "Pont de Levallois - Bécon",
+                                    "École vétérinaire de Maisons-Alfort",
+                                    "Maisons-Alfort - Les Juilliottes",
+                                    "Maisons-Alfort - Stade",
+                                    "Malakoff - Rue Étienne-Dolet",
+                                    "Malakoff - Plateau de Vanves",
+                                    "Croix de Chavaux",
+                                    "Mairie de Montreuil",
+                                    "Robespierre",
+                                    "Montreuil - Hôpital",
+                                    "La Dhuys",
+                                    "Mairie de Montrouge",
+                                    "Barbara",
+                                    "Les Sablons",
+                                    "Pont de Neuilly",
+                                    "Église de Pantin",
+                                    "Hoche",
+                                    "Aéroport d'Orly"
+                                ]
+                            }
+                        ]
+                    }
+                },
 
                 {
                     "gameKey": "q-p-bp-1",
@@ -1059,32 +1132,6 @@
                                     "Villejuif - Léo Lagrange",
                                     "Villejuif - Paul Vaillant-Couturier",
                                     "Villejuif - Louis Aragon"
-                                ]
-                            }
-                        ]
-                    }
-                },
-                {
-                    "gameKey": "metros-paris-arrondissement",
-                    "imageString": "Ⓜ️📍",
-                    "title": "Métro Parisiens par arrondissement",
-                    "subtitles": "La version vraiment puriste.",
-                    "gameType": "findAll",
-                    "gameConfig": {
-                        "facts": [
-                            {
-                                "key": "Métro du 10e",
-                                "values": [
-                                    "Anvers",
-                                    "Barbès Rochechouart",
-                                    "Château d’Eau",
-                                    "Gare de l’Est",
-                                    "Gare du Nord",
-                                    "Jacques Bonsergent",
-                                    "Poissonnière",
-                                    "République",
-                                    "Strasbourg Saint-Denis",
-                                    "Temple"
                                 ]
                             }
                         ]
