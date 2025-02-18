@@ -626,6 +626,56 @@
                             }
                         ]
                     }
+                },
+                {
+                    "gameKey": "q-w-animals-1",
+                    "imageString": "🐷",
+                    "title": "Les verbes de cris d'animaux.",
+                    "subtitles": "Grouik grouik.",
+                    "gameType": "multipleChoices",
+                    "gameConfig": {
+                        "facts": [
+                            {"key": "Le chien", "value": "Aboyer"},
+                            {"key": "Le chat", "value": "Miauler"},
+                            {"key": "Le loup", "value": "Hurler"},
+                            {"key": "Le renard", "value": "Glapir"},
+                            {"key": "Le léopard", "value": "Rugir"},
+                            {"key": "L’éléphant", "value": "Barir"},
+                            {"key": "Le cheval", "value": "Hennir"},
+                            {"key": "L’âne", "value": "Braire"},
+                            {"key": "La vache", "value": "Meugler"},
+                            {"key": "Le taureau", "value": "Mugir"},
+                            {"key": "Le bœuf", "value": "Mugir"},
+                            {"key": "Le mouton", "value": "Bêler"},
+                            {"key": "La chèvre", "value": "Bêler"},
+                            {"key": "Le cerf", "value": "Brâmer"},
+                            {"key": "Le chevreuil", "value": "Raire"},
+                            {"key": "Le sanglier", "value": "Grouiner"},
+                            {"key": "Le cochon, le porc", "value": "Grouiner"},
+                            {"key": "Le coq", "value": "Coqueriquer"},
+                            {"key": "La poule", "value": "Caqueter"},
+                            {"key": "Le canard", "value": "Cancaner"},
+                            {"key": "L’oie", "value": "Cacarder"},
+                            {"key": "Le cygne", "value": "Siffler"},
+                            {"key": "Le pigeon, la colombe", "value": "Roucouler"},
+                            {"key": "Le corbeau", "value": "Croasser"},
+                            {"key": "La corneille", "value": "Crailler"},
+                            {"key": "Le hibou", "value": "Hululer"},
+                            {"key": "La chouette", "value": "Hululer"},
+                            {"key": "L’aigle", "value": "Glatir"},
+                            {"key": "L’hirondelle", "value": "Trisser"},
+                            {"key": "Le moineau", "value": "Pépier"},
+                            {"key": "Le perroquet", "value": "Jacasser"},
+                            {"key": "Le serpent", "value": "Siffler"},
+                            {"key": "Le crocodile", "value": "Gémir"},
+                            {"key": "La grenouille", "value": "Coasser"},
+                            {"key": "Le crapaud", "value": "Croasser"},
+                            {"key": "L’abeille", "value": "Bourdonner"},
+                            {"key": "Le moustique", "value": "Ziguer"},
+                            {"key": "La mouche", "value": "Vrombir"},
+                            {"key": "La cigale", "value": "Striduler"}
+                        ]
+                    }
                 }
             ]
         },
