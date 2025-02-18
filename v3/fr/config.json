@@ -5,24 +5,6 @@
             "title": "Géographie",
             "key": "q-g-cm-1",
             "subtitle": "Les capitales, les départements chelous, tout ça, tout ça.",
-            "levels": [
-                {
-                    "min": 0,
-                    "label": "Niveau 1 - 🥚"
-                },
-                {
-                    "min": 5,
-                    "label": "Niveau 2 - 🐣"
-                },
-                {
-                    "min": 10,
-                    "label": "Niveau 3 - 🐥"
-                },
-                {
-                    "min": 15,
-                    "label": "Niveau 4 - 🦆"
-                }
-            ],
             "quizes": [
                 {
                     "gameKey": "q-g-cm-3",
@@ -421,16 +403,6 @@
             "title": "Ordre de grandeur physiques",
             "key": "physics",
             "subtitle": "Pour devenir plus fort que Jancovici",
-            "levels": [
-                {
-                    "min": 0,
-                    "label": "Pour l'instant, nul sur 20."
-                },
-                {
-                    "min": 10,
-                    "label": "Pas trop mal"
-                }
-            ],
             "quizes": [
                 {
                     "gameKey": "electric-powers",
@@ -474,16 +446,6 @@
             "title": "Trucs weirds",
             "key": "weird",
             "subtitle": "Divers trucs inutiles.",
-            "levels": [
-                {
-                    "min": 0,
-                    "label": "Pour l'instant, nul sur 20."
-                },
-                {
-                    "min": 10,
-                    "label": "Pas trop mal"
-                }
-            ],
             "quizes": [
                 {
                     "gameKey": "q-w-p-1",
@@ -679,30 +641,11 @@
                 }
             ]
         },
-
         {
             "imageString": "🗼🥖",
             "title": "Paris",
             "key": "paris",
             "subtitle": "Pour les amoureux de dioxyde d'azote",
-            "levels": [
-                {
-                    "min": 0,
-                    "label": "Niveau 1 - 🥚"
-                },
-                {
-                    "min": 5,
-                    "label": "Niveau 2 - 🐣"
-                },
-                {
-                    "min": 10,
-                    "label": "Niveau 3 - 🐥"
-                },
-                {
-                    "min": 15,
-                    "label": "Niveau 4 - 🦆"
-                }
-            ],
             "quizes": [
                 {
                     "gameKey": "q-p-mp-1",
